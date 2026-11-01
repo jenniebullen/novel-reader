@@ -1,0 +1,4 @@
+# 统一换行符，避免 Windows/Linux 来回改动
+* text=auto eol=lf
+*.bat text eol=crlf
+*.gradle.kts text eol=lf
