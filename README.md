@@ -8,6 +8,8 @@
 - 技术栈：Kotlin + Jetpack Compose + 自绘分页 View + 系统 SQLite
 - 安装包约 1 MB（R8 压缩后）
 
+📦 不想自己编译？直接下载安装包：[最新 Release](https://github.com/jenniebullen/novel-reader/releases/latest)
+
 ## 功能
 
 **导入与分章**
